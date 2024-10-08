@@ -1,3 +1,10 @@
+/*
+*NAME: SYED ANWER
+*ROLL NO: 24K-0033
+*SECTION: BAI-1A
+*QUESTION #: Linear Search
+*/
+
 #include<stdio.h>
 
 int main(){

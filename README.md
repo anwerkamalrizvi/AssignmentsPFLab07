@@ -20,3 +20,15 @@ It consists of the following:-
 <br>**Q5.** A weather station records temperature in an array over the course of a week (7 days). Write a program that calculates the average temperature of the week and identifies if any days had extreme temperatures (above 40°C or below 0°C).
 <br>Example Input: [25, 30, -2, 35, 42, 28, 10]
 <br>Example Output: Average temperature: 24.0°C, Extreme temperatures on day 3 and day 5.
+<br>**Q6.** Given an array arr[] of size N which contains elements from 0 to N-1, you need to find all the
+elements occurring more than once in the given array.
+Input:
+Array Size =5
+Element 1=2
+Element 2=3
+Element 3=1
+Element 4=2
+Element 5=3
+Output:
+Number 2 and 3 in array occur more than once.
+Note: You cannot utilize nested loops. 
